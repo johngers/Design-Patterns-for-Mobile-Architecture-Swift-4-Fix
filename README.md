@@ -50,4 +50,4 @@ By removing the version numbers we can get the latest versions of all the CocoaP
 
 Now just open the workspace and you should be able to fix the few errors that come up when building the project which should allow you to work through the course. After this you can migrate to Swift 5 if you would like using the built in tools inside of Xcode.
 
-**I'm not going to upload the fixed files because the rights of the course and source code are not mine**
+**I'm not going to upload the fixed files because the rights of the course and source code are not mine.**
