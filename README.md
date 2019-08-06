@@ -7,7 +7,7 @@ is the point in the course where you start to code.
 
 Then open the remove everything except the "KnownSpys" folder and the "KnownSpys.xcodeproj".
 
-Now open the Xcode project for the excercise. Click on "KnownSpys" in the Project Navigator. 
+Now open the Xcode project for the excercise and click on "KnownSpys" in the Project Navigator. 
 
 Then, click on "KnownSpys" in the Targets. Go to Build Settings and search for "Swift Language Version". 
 Change this to Swift 4.0
