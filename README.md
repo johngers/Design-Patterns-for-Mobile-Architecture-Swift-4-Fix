@@ -24,7 +24,7 @@ Then type:
 
 Paste this as your Podfile: 
 ____________________________________________________________________________________________
-
+```
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '10.0'
 
@@ -43,7 +43,7 @@ target 'KnownSpys' do
     pod 'Toaster'
     pod 'SwinjectStoryboard', :git=> 'https://github.com/Swinject/SwinjectStoryboard.git'
 end
-
+```
 ____________________________________________________________________________________________
 
 By removing the version numbers we can get the latest versions of all the CocoaPods which have been converted to Swift 4 already.
